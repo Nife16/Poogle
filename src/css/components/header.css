@@ -1,0 +1,27 @@
+.header-padding {
+    padding: 6px;
+    height: 60px;
+}
+
+.firstAnchor {
+    margin-left: 15px;
+}
+
+a {
+    padding: 5px;
+    margin: 0 5px;
+    color: #202124;
+    font-size: 14px;
+    font-family: Roboto,arial,sans-serif;
+    text-decoration: none;
+}
+
+.letter-button {
+    border-radius: 25px;
+    background-color: #681da8;
+    height: 32px;
+    width: 32px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
